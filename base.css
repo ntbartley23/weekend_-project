@@ -1,3 +1,58 @@
 #welcome {
 	border:1px orange solid;
 }
+
+.facebook {
+	height: 40px;
+	width: 40px;
+
+}
+
+.camera {
+	height: 40px;
+	width: 40px;
+}
+
+.mic {
+	height: 40px;
+	width:40px;
+}
+
+.family {
+	height: 300px;
+	width:400px;
+}
+
+.music {
+	height: 200px;
+	width: 200px;
+}
+
+.date { 
+	height: 400px;
+	width: 400px;
+
+}
+.NB {
+	height: 400px;
+	width: 400px;
+}
+
+.guitar {
+	height: 400px;
+	width: 400px;
+
+}
+.photo {
+	height: 400px;
+	width: 400px;
+}
+
+.3 {
+	height: 400px;
+	width: 400px;
+}
+.4	{
+	height: 400px;
+	width: 400px;
+}
